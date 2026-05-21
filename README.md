@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./docs/logo.png" alt="Friendly DB" width="600" />
+</p>
+
 # Friendly DB
 
 **Visualize your PostgreSQL schema in seconds — no backend, no install. Paste your DDL and you instantly get an interactive diagram. No accounts, no servers — everything runs in the browser.** 

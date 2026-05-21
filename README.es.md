@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./docs/logo.png" alt="Friendly DB" width="600" />
+</p>
+
 # Friendly DB
 
 **Visualizá tu schema de PostgreSQL en segundos — sin backend, sin instalar nada.**
